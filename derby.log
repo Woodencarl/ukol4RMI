@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 06 13:27:00 UTC 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-015f-9183-44f0-0000015e0990 
+on database directory /media/sf_MDW/ukoly/cviko_3/derbyDB with class loader sun.misc.Launcher$AppClassLoader@d16e5d6 
+Loaded from file:/media/sf_MDW/ukoly/cviko_3/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_80-b15
+user.dir=/media/sf_MDW/ukoly/cviko_3
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-95-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
